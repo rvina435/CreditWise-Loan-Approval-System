@@ -1,8 +1,8 @@
-# 🏦 CreditWise – AI-Powered Loan Approval Prediction System
+## CreditWise – AI-Powered Loan Approval Prediction System
 
 An end-to-end Machine Learning project that predicts loan approval decisions using applicant financial and demographic information.
 
-## 🚀 Features
+##  Features
 
 - Loan Approval Prediction
 - Approval Probability Score
@@ -12,7 +12,7 @@ An end-to-end Machine Learning project that predicts loan approval decisions usi
 - Hyperparameter Tuning (GridSearchCV)
 - Interactive Streamlit UI
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas
@@ -22,13 +22,13 @@ An end-to-end Machine Learning project that predicts loan approval decisions usi
 - Streamlit
 - Joblib
 
-## 📊 Model Performance
+##  Model Performance
 
 - Random Forest Classifier
 - GridSearchCV Optimization
 - 93.5% Cross Validation Accuracy
 
-## ▶️ Run Locally
+##  Run Locally
 
 ```bash
 streamlit run app.py
